@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "კოენზიმების მოქმედების ქიმიური მექანიზმები",
     "description": "",
-    "home_page_url": "https://edior-db.github.io/coenzymes",
-    "feed_url": "https://edior-db.github.io/coenzymes/feed.json",
+    "home_page_url": "https://coenzymes.delocalized.bond",
+    "feed_url": "https://coenzymes.delocalized.bond/feed.json",
     "user_comment": "",
     "author": {
         "name": "The Delocalized Bond"
     },
     "items": [
         {
-            "id": "https://edior-db.github.io/coenzymes/testi.html",
-            "url": "https://edior-db.github.io/coenzymes/testi.html",
+            "id": "https://coenzymes.delocalized.bond/testi.html",
+            "url": "https://coenzymes.delocalized.bond/testi.html",
             "title": "ტესტი",
             "summary": "ტესტ-გვერდი",
             "content_html": "\n    <h2 id=\"test-gverdi\">\n      ტესტ-გვერდი\n    </h2>",

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>კოენზიმების მოქმედების ქიმიური მექანიზმები</title>
-    <link href="https://edior-db.github.io/coenzymes/feed.xml" rel="self" />
-    <link href="https://edior-db.github.io/coenzymes" />
+    <link href="https://coenzymes.delocalized.bond/feed.xml" rel="self" />
+    <link href="https://coenzymes.delocalized.bond" />
     <updated>2023-08-29T13:09:13+04:00</updated>
     <author>
         <name>The Delocalized Bond</name>
     </author>
-    <id>https://edior-db.github.io/coenzymes</id>
+    <id>https://coenzymes.delocalized.bond</id>
 
     <entry>
         <title>ტესტი</title>
         <author>
             <name>The Delocalized Bond</name>
         </author>
-        <link href="https://edior-db.github.io/coenzymes/testi.html"/>
-        <id>https://edior-db.github.io/coenzymes/testi.html</id>
+        <link href="https://coenzymes.delocalized.bond/testi.html"/>
+        <id>https://coenzymes.delocalized.bond/testi.html</id>
 
         <updated>2023-08-29T13:09:13+04:00</updated>
             <summary>
